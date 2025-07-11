@@ -112,7 +112,7 @@ int main() {
 ```
 Output:
 ![Escalator](https://github.com/jinaljain0705/Project---Escalator-Stack-/blob/main/Output/Output-1.png)
-![Escalator]()
+![Escalator](https://github.com/jinaljain0705/Project---Escalator-Stack-/blob/main/Output/Output-2.png)
 ![Escalator]()
 
 PS D:\Project - Escalator(Stack)> g++ Escalator.cpp
