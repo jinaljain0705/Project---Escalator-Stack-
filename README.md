@@ -111,9 +111,10 @@ int main() {
 }
 ```
 Output:
+![Escalator](https://github.com/jinaljain0705/Project---Escalator-Stack-/blob/main/Output/Output-1.png)
 ![Escalator]()
 ![Escalator]()
-![Escalator]()
+
 PS D:\Project - Escalator(Stack)> g++ Escalator.cpp
 PS D:\Project - Escalator(Stack)> ./a.exe
 === Escalator Menu ===
