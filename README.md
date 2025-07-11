@@ -113,7 +113,7 @@ int main() {
 Output:
 ![Escalator](https://github.com/jinaljain0705/Project---Escalator-Stack-/blob/main/Output/Output-1.png)
 ![Escalator](https://github.com/jinaljain0705/Project---Escalator-Stack-/blob/main/Output/Output-2.png)
-![Escalator]()
+![Escalator](https://github.com/jinaljain0705/Project---Escalator-Stack-/blob/main/Output/Output-3.png)
 
 PS D:\Project - Escalator(Stack)> g++ Escalator.cpp
 PS D:\Project - Escalator(Stack)> ./a.exe
